@@ -63,7 +63,6 @@ This project is licensed under the MIT License.
 
 ### README.md in Spanish
 
-```markdown
 # Análisis de Riesgo en el Ranking de Universidades
 
 Este proyecto analiza el riesgo de fluctuación en los rankings de universidades utilizando un enfoque de simulación de Monte Carlo. El análisis incluye la pre-procesamiento de datos, la ejecución de simulaciones y la visualización de los resultados.
